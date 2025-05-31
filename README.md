@@ -1,3 +1,3 @@
 # code_memory
 
-A new Flutter project.
+A simple memory game build with Flutter for Android.
